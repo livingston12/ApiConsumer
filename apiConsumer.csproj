@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+ <PropertyGroup>
+    <PackageId>ApiConsumer.NetCore</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Livingston12</Authors>
+    <PackageDescription>Use for conect any api and call any method</PackageDescription>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/livingston12/ApiConsumer</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="./../../LICENSE" Pack="true" PackagePath="" />
+  </ItemGroup>
+</Project>

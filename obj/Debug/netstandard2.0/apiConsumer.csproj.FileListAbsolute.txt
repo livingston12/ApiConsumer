@@ -1,0 +1,9 @@
+d:\Programacion\apiConsumer\bin\Debug\netstandard2.0\apiConsumer.deps.json
+d:\Programacion\apiConsumer\bin\Debug\netstandard2.0\apiConsumer.dll
+d:\Programacion\apiConsumer\bin\Debug\netstandard2.0\apiConsumer.pdb
+d:\Programacion\apiConsumer\obj\Debug\netstandard2.0\apiConsumer.csprojAssemblyReference.cache
+d:\Programacion\apiConsumer\obj\Debug\netstandard2.0\apiConsumer.AssemblyInfoInputs.cache
+d:\Programacion\apiConsumer\obj\Debug\netstandard2.0\apiConsumer.AssemblyInfo.cs
+d:\Programacion\apiConsumer\obj\Debug\netstandard2.0\apiConsumer.csproj.CoreCompileInputs.cache
+d:\Programacion\apiConsumer\obj\Debug\netstandard2.0\apiConsumer.dll
+d:\Programacion\apiConsumer\obj\Debug\netstandard2.0\apiConsumer.pdb
